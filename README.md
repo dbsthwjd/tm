@@ -8,7 +8,7 @@
 ~~~
 ---
 
-1522 윤소정
+1522 윤소정,https://github.com/dbsthwjd/tm.git
  ---
  <2021.05.26>
 ### :star:[teachable machine]:star:
